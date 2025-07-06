@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Begin",
+            "request": "launch",
+            "mainClass": "backend.prova2.Begin",
+            "projectName": "javin_a17d7bd3"
+        },
+        {
+            "type": "java",
+            "name": "Inicia",
+            "request": "launch",
+            "mainClass": "backend.Inicia",
+            "projectName": "javin_a17d7bd3"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "javin_a17d7bd3"
+        },
+        {
+            "type": "java",
+            "name": "DesempenhoAlunos",
+            "request": "launch",
+            "mainClass": "DesempenhoAlunos",
+            "projectName": "javin_a17d7bd3"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "escola.Principal",
+            "projectName": "javin_a17d7bd3"
+        },
+        {
+            "type": "java",
+            "name": "exercicio05",
+            "request": "launch",
+            "mainClass": "exercicio05",
+            "projectName": "javin_a17d7bd3"
+        },
+        {
+            "type": "java",
+            "name": "otimizado",
+            "request": "launch",
+            "mainClass": "otimizado",
+            "projectName": "javin_a17d7bd3"
+        },
+        {
+            "type": "java",
+            "name": "prova",
+            "request": "launch",
+            "mainClass": "prova",
+            "projectName": "javin_a17d7bd3"
+        },
+        {
+            "type": "java",
+            "name": "prova2",
+            "request": "launch",
+            "mainClass": "prova2",
+            "projectName": "javin_a17d7bd3"
+        }
+    ]
+}
