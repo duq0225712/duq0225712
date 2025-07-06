@@ -9,6 +9,8 @@ public class Inicia {
         // instancia de lista de vetores do tipo aluno
         ArrayList<Aluno> aluno = new  ArrayList<>();
 
+        //testeando enviar e ver se aparece alguma mudança
+
         for (int i = 0; i < 5; i++) {
             System.out.println("Digite seu nome: ");
             String nome = sc.nextLine();
