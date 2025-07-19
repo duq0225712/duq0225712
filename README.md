@@ -70,7 +70,10 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/duq0225712/GitLearning/output/snake.svg#gh-light-mode-only" alt="Snake animation" />
+
+    
+
   
   <br/><br/><br/>
 </div>
@@ -94,10 +97,16 @@
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/duq0225712/duq0225712/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/duq0225712/duq0225712/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/duq0225712/duq0225712/output/pacman-contribution-graph.svg">
-</picture>
+<!-- Versão para tema escuro -->
+###
+
+<img src="https://raw.githubusercontent.com/duq0225712/GitLearning/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<img src="https://raw.githubusercontent.com/duq0225712/GitLearning/output/snake-dark.svg#gh-dark-mode-only" alt="Snake animation dark" />
+
+
+
+
+
