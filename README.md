@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=duq0225712.duq0225712" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thales+Monteiro!;" />
@@ -19,7 +19,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=duq0225712&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/duq0225712](https://github.com/duq0225712)  
@@ -56,7 +56,7 @@
  
 ###
 <!-- Versão para tema escuro -->
-<img src="https://raw.githubusercontent.com/duq0225712/GitLearning/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/duq0225712/duq0225712/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -75,8 +75,6 @@
   <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duq0225712&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-
-
 <br/><br/>
 
 <hr/>
@@ -86,9 +84,9 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/duq0225712/GitLearning/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/duq0225712/GitLearning/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/duq0225712/GitLearning/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/duq0225712/duq0225712/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/duq0225712/duq0225712/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/duq0225712/duq0225712/output/pacman-contribution-graph.svg">
 </picture>
 
 
