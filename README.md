@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/duq0225712/duq0225712/main/imagens/gif3.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=duq0225712&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
